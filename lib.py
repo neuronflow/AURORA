@@ -93,7 +93,7 @@ def single_inference(
     threshold=0.5,
     sliding_window_overlap=0.5,
     crop_size=(192, 192, 32),
-    model_weights="github_release/inference/model_weights/last_weights.tar",
+    model_weights="model_weights/last_weights.tar",
     verbosity=True,
 ):
     """
