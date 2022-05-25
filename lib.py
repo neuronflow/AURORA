@@ -1,6 +1,5 @@
 # basics
 import os
-from click import pass_context
 import numpy as np
 import nibabel as nib
 from path import Path
@@ -87,14 +86,14 @@ def single_inference(
     segmentation_file,
     whole_network_outputs_file=None,
     enhancing_network_outputs_file=None,
-    tta=True,
-    threshold=0.5,
     cuda_devices="0",
-    crop_size=(192, 192, 32),
-    workers=0,
+    tta=True,
     sliding_window_batch_size=20,
+    workers=0,
+    threshold=0.5,
     sliding_window_overlap=0.5,
-    model_weights="model_weights/last_weights.tar",
+    crop_size=(192, 192, 32),
+    model_weights="github_release/inference/model_weights/last_weights.tar",
     verbosity=True,
 ):
     """
