@@ -6,6 +6,6 @@ single_inference(
     t2_file="*_t2.nii.gz",
     fla_file="*_fla.nii.gz",
     segmentation_file="your_segmentation_file.nii.gz",
-    whole_network_outputs_file="your_whole_metastasis_file.nii.gz",
-    enhancing_network_outputs_file="your_enhancing_metastasis_file.nii.gz",
+    whole_network_outputs_file="your_whole_metastasis_file.nii.gz", # optional
+    enhancing_network_outputs_file="your_enhancing_metastasis_file.nii.gz", # optional
 )
