@@ -9,7 +9,7 @@
 2) Go into the repository and install:
     ```
     cd AURORA
-    pip install -e .
+    pip install -r requirements.txt 
     ```
 ## Usuage
 
