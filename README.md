@@ -39,7 +39,7 @@ This project is licensed under the terms of the [GNU Affero General Public Licen
 Contact us regarding licensing.
 
 ## Contact / Feedback / Questions
-Open an issue in this git repository or contact us per email.
+For topics not fitting in a Github issue:
 
 Florian Kofler
 florian.kofler [at] tum.de
