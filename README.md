@@ -17,7 +17,7 @@
 
 ***Input: t1_file, t1c_file, t2_file, fla_file***
 
-All 4 input files must be nifti (nii.gz) files containing 3D MRIs. Please ensure that all input images are correctly preprocessed (you can use [BraTS Toolkit](https://github.com/neuronflow/BraTS-Toolkit) for that).
+All 4 input files must be nifti (nii.gz) files containing 3D MRIs. Please ensure that all input images are correctly preprocessed (skullstripped, co-registered, registered on SRI-24, you can use [BraTS Toolkit](https://github.com/neuronflow/BraTS-Toolkit) for that).
 
 ***Output: segmentation_file***
 
