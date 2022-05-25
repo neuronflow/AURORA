@@ -41,7 +41,7 @@ Contact us regarding licensing.
 ## Contact / Feedback / Questions
 If possible please open a GitHub issue [here](https://github.com/neuronflow/AURORA/issues).
 
-For inquiries not suitable for Github issues:
+For inquiries not suitable for GitHub issues:
 
 Florian Kofler
 florian.kofler [at] tum.de
