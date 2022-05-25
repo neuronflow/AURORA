@@ -25,12 +25,20 @@ Add path to your desired output folder.
 
 ***optional Output: whole_network_outputs_file, enhancing_network_outputs_file***
 
-## License
+## Citation
+when using the software please cite:
+
+```
+TODO
+```
+
+## Licensing
 
 This project is licensed under the terms of the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.de.html).
 
-## Contact / Feedback / Questions
+Contact us regarding licensing.
 
+## Contact / Feedback / Questions
 Open an issue in this git repository or contact us per email.
 
 Florian Kofler
