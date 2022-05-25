@@ -39,7 +39,9 @@ This project is licensed under the terms of the [GNU Affero General Public Licen
 Contact us regarding licensing.
 
 ## Contact / Feedback / Questions
-For topics not fitting in a Github issue:
+If possible please open a GitHub issue [here](https://github.com/neuronflow/AURORA/issues).
+
+For inquiries not suitable for Github issues:
 
 Florian Kofler
 florian.kofler [at] tum.de
