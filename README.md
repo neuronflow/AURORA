@@ -26,10 +26,16 @@ Add path to your desired output folder.
 ***optional Output: whole_network_outputs_file, enhancing_network_outputs_file***
 
 ## Citation
-when using the software please cite:
+when using the software please cite https://www.sciencedirect.com/science/article/pii/S0167814022045625
 
 ```
-TODO
+@article{buchner2022development,
+  title={Development and external validation of an MRI-based neural network for brain metastasis segmentation in the AURORA multicenter study},
+  author={Buchner, Josef A and Kofler, Florian and Etzel, Lucas and Mayinger, Michael and Christ, Sebastian M and Brunner, Thomas B and Wittig, Andrea and Menze, Bj{\"o}rn and Zimmer, Claus and Meyer, Bernhard and others},
+  journal={Radiotherapy and Oncology},
+  year={2022},
+  publisher={Elsevier}
+}
 ```
 
 ## Licensing
