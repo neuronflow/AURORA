@@ -11,6 +11,14 @@
     cd AURORA
     pip install -r requirements.txt 
     ```
+    
+## Recommended Environment
+* CUDA 11.4+
+* Python 3.10+
+* GPU with at least 8GB of VRAM
+
+further details in requirements.txt
+
 ## Usuage
 
 **run_inference.py**: Example script for single inference. 
@@ -24,6 +32,7 @@ All 4 input files must be nifti (nii.gz) files containing 3D MRIs. Please ensure
 Add path to your desired output folder.
 
 ***optional Output: whole_network_outputs_file, enhancing_network_outputs_file***
+
 
 ## Citation
 when using the software please cite https://www.sciencedirect.com/science/article/pii/S0167814022045625
