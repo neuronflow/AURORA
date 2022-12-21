@@ -85,7 +85,7 @@ def single_inference(
     fla_file,
     segmentation_file,
     whole_network_outputs_file=None,
-    enhancing_network_outputs_file=None,
+    metastasis_network_outputs_file=None,
     cuda_devices="0",
     tta=True,
     sliding_window_batch_size=20,
@@ -265,7 +265,7 @@ def single_inference(
                 onehot_model_outputs_CHWD=onehot_model_output,
                 output_file=segmentation_file,
                 whole_network_output_file=whole_network_outputs_file,
-                enhancing_network_output_file=enhancing_network_outputs_file,
+                enhancing_network_output_file=metastasis_network_outputs_file,
             )
 
             # print("the time:", time.strftime("%Y-%m-%d_%H-%M-%S"))
