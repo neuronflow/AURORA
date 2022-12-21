@@ -1,4 +1,6 @@
 # AURORA
+Deep learning models for the manuscript:
+[Development and external validation of an MRI-based neural network for brain metastasis segmentation in the AURORA multicenter study](https://www.sciencedirect.com/science/article/pii/S0167814022045625)
 
 ## Installation
 
