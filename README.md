@@ -2,6 +2,9 @@
 Deep learning models for the manuscript
 [Development and external validation of an MRI-based neural network for brain metastasis segmentation in the AURORA multicenter study](https://www.sciencedirect.com/science/article/pii/S0167814022045625)
 
+![image](https://user-images.githubusercontent.com/7048826/219237559-f329729b-e81f-4a0c-a867-82f97989ea68.png)
+
+
 ## Installation
 
 1) Clone this repository:
