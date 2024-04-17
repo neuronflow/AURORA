@@ -4,6 +4,7 @@ Deep learning models for the manuscript
 
 ![image](https://user-images.githubusercontent.com/7048826/219237559-f329729b-e81f-4a0c-a867-82f97989ea68.png)
 
+> WARNING: This code base is no longer supported. It still works, but we recommended using [BrainLes AURORA](https://github.com/BrainLesion/AURORA/) instead, which offers much more flexibility in a convenient PyPI package.
 
 ## Installation
 
